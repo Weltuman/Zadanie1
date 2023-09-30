@@ -1,6 +1,3 @@
-# Code
-
-## Vanilla
 
 ``python
 print("hello world!")
