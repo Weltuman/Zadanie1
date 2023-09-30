@@ -1,17 +1,9 @@
 
 ``python
-print("hello world!")
-``
-
-## Flavored V1
-
-<div style="background-color: rgb(50, 50, 50);">
-
-``python
 print("Yo!")
 ``
 
-</div>
+
 
 
 <h1 align="center">Hi there, I'm <a href="https://vk.com/weltuman/" target="_blank">Alexey</a> 
