@@ -1,7 +1,7 @@
-<h1 align="center">Hi there, I'm <a href="https://vk.com/weltuman/" target="_blank">Alexey</a> 
+<h1 align="left">Hi there, I'm <a href="https://vk.com/weltuman/" target="_blank">Alexey</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-<a align="Right" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&pause=1000&color=A13DF7&width=435&lines=Student+of+UAviaC+MCC+College" alt="Typing SVG" /></a>
+<a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&pause=1000&color=A13DF7&width=435&lines=Student+of+UAviaC+MCC+College" alt="Typing SVG" /></a>
 
 # Statistics
 
