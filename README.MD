@@ -13,7 +13,7 @@
 
 # About me
 
-<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent">
+<img alt="Static Badge" src="https://img.shields.io/badge/Black-White-Red?labelColor=White&color=Black">
 
 -----
 
