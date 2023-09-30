@@ -1,4 +1,4 @@
-<div style="background-color: rgb(164, 0, 252);">
+<div style="background-color:(164, 0, 252);">
 
 ``python
 print("Yo!")
