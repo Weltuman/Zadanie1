@@ -1,10 +1,10 @@
-<div style="background-color:rgb(0,0,0);">
+<div style="background-color: rgb(164, 0, 252);">
 
+``python
+print("Yo!")
 ``
-Привет! Друг!
-``
+
 </div>
-
 
 
 
