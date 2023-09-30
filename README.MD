@@ -1,6 +1,6 @@
 
 ``python
-print("No!")
+Hello Friend
 ``
 
 
