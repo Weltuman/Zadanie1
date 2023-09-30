@@ -1,6 +1,6 @@
 
 ``python
-print("Yo!")
+print("No!")
 ``
 
 
