@@ -7,7 +7,7 @@
 
 -----
 
-[![Alexey GitHub stats](https://github-readme-stats.vercel.app/api?username=Weltuman)](https://github-readme-stats.vercel.app/api?username=Weltuman
+[![Alexey GitHub stats](https://github-readme-stats.vercel.app/api?username=Weltuman)](https://github-readme-stats.vercel.app/api?username=Weltuman)
 
 
 # Практическая работа по дисциплине ИСРПО
