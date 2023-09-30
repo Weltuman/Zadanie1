@@ -13,10 +13,6 @@
 
 -----
 
-# Статистика 
-
-[![Alexey GitHub stats](view-source:https://github-readme-stats.vercel.app/api?username=anuraghazra)](view-source:https://github-readme-stats.vercel.app/api?username=anuraghazra)
-
 * группа 21ис-5
 * Студент :<a href="https://vk.com/weltuman"> Алексей Лосев
 * Проверил: Литвинов И.В.
