@@ -3,7 +3,7 @@
 
 <a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&pause=1000&color=A13DF7&width=435&lines=Student+of+UAviaC+MCC+College" alt="Typing SVG" /></a>
 
-# Statistics
+## Statistics
 
 -----
 
@@ -11,7 +11,7 @@
 
 -----
 
-# About me
+## About me
 
 <img alt="Static Badge" src="https://img.shields.io/badge/Black-White-Red?labelColor=White&color=Black">
 
