@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://vk.com/weltuman/" target="_blank">Alexey</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Student of UAviaC MCC College ru</h3>
+
 
 # Практическая работа по дисциплине ИСРПО
 ## Алексей Лосев
