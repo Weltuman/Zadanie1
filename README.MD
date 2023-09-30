@@ -9,7 +9,7 @@
 
 -----
 
-<p aligh="center"><img src="https://www.analogi.net/wp-content/uploads/gorbatyy-kit.jpg" src=width="270"></p>
+<p aligh="center"><img src="https://1.bp.blogspot.com/-mNlVczqEQ08/U3qM4OB0DhI/AAAAAAAACUo/ZL1Hm6p0KuI/s1600/IMG_6175.jpg" src=width="270"></p>
 
 <p><a href="https://practicum.yandex.ru/">Курсы Яндекс</p>
 
