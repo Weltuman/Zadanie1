@@ -10,7 +10,7 @@
 
 <p aligh="center"><img src="https://1.bp.blogspot.com/-mNlVczqEQ08/U3qM4OB0DhI/AAAAAAAACUo/ZL1Hm6p0KuI/s1600/IMG_6175.jpg" src=width="270"></p>
 
-<p><a href="https://vk.com/nissanrussia?ysclid=ln6e2yctof26536566">Ybssan Skyline 34</p>
+<p><a href="https://vk.com/nissanrussia?ysclid=ln6e2yctof26536566">Nyssan Skyline 34</p>
 
 -----
 
