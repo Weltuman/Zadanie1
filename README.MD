@@ -1,8 +1,3 @@
-# Вот так вот можно
-
-<p aligh="center"><img src="https://web.telegram.org/f0d31d92-5e5a-4569-aa06-ebe7a626b3c2.jpeg" src=width="400"></p>
-
-
 
 <h1 align="center">Hi there, I'm <a href="https://vk.com/weltuman/" target="_blank">Alexey</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
@@ -14,7 +9,7 @@
 
 -----
 
-<p aligh="center"><img src="https://w.forfun.com/fetch/5a/5a7350599720f7a5b6749672e16b099f.jpeg" src=width="270"></p>
+<p aligh="center"><img src="https://web.telegram.org/f0d31d92-5e5a-4569-aa06-ebe7a626b3c2.jpeg" src=width="270"></p>
 
 <p><a href="https://practicum.yandex.ru/">Курсы Яндекс</p>
 
