@@ -1,13 +1,20 @@
-code[class*="language-"], pre[class*="language-"]
-  border-radius: 6px
-  text-shadow: 0 1px #14161800 !important
-  background: #242424 !important
-  span.token.operator
-    background: none
-  span.token.keyword
-    color: #866cba
-Note: It's a sass way style.
-27 декабря 2021
+# Code
+
+## Vanilla
+
+``python
+print("hello world!")
+``
+
+## Flavored V1
+
+<div style="background-color: rgb(50, 50, 50);">
+
+``python
+print("Yo!")
+``
+
+</div>
 
 
 <h1 align="center">Hi there, I'm <a href="https://vk.com/weltuman/" target="_blank">Alexey</a> 
