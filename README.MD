@@ -14,9 +14,6 @@
 -----
 
 # Статистика 
-
------
-
 <svg
         width="450"
         height="195"
@@ -85,18 +82,6 @@
       transform: rotate(-90deg);
       animation: rankAnimation 1s forwards ease-in-out;
     }
-    
-    @keyframes rankAnimation {
-      from {
-        stroke-dashoffset: 251.32741228718345;
-      }
-      to {
-        stroke-dashoffset: 28.33191000739964;
-      }
-    }
-  
-  
-
           
     /* Animations */
     @keyframes scaleInAnimation {
@@ -115,12 +100,8 @@
         opacity: 1;
       }
     }
-  
-          
+
         </style>
-
-        
-
         <rect
           data-testid="card-bg"
           x="0.5"
@@ -130,14 +111,9 @@
           stroke="#e4e2e2"
           width="449"
           fill="#fffefe"
-          stroke-opacity="1"
-        />
-
-        
-      <g
-        data-testid="card-title"
-        transform="translate(25, 35)"
-      >
+          stroke-opacity="1"/>
+      <g data-testid="card-title"
+        transform="translate(25, 35)">
         <g transform="translate(0, 0)">
       <text
         x="0"
@@ -147,23 +123,17 @@
       >Anurag Hazra's GitHub Stats</text>
     </g>
       </g>
-    
-
         <g
           data-testid="main-card-body"
-          transform="translate(0, 55)"
-        >
-          
+          transform="translate(0, 55)">
     <g data-testid="rank-circle"
           transform="translate(365, 47.5)">
         <circle class="rank-circle-rim" cx="-10" cy="8" r="40" />
         <circle class="rank-circle" cx="-10" cy="8" r="40" />
         <g class="rank-text">
-          
         <text x="-5" y="3" alignment-baseline="central" dominant-baseline="central" text-anchor="middle" data-testid="level-rank-icon">
           A+
         </text>
-      
         </g>
       </g>
     <svg x="0" y="0">
@@ -180,7 +150,6 @@
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
-      
       <text class="stat  bold"  y="12.5">Total Commits (2023):</text>
       <text
         class="stat  bold"
@@ -191,7 +160,6 @@
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
-      
       <text class="stat  bold"  y="12.5">Total PRs:</text>
       <text
         class="stat  bold"
@@ -202,7 +170,6 @@
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
-      
       <text class="stat  bold"  y="12.5">Total Issues:</text>
       <text
         class="stat  bold"
@@ -213,7 +180,6 @@
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
-      
       <text class="stat  bold"  y="12.5">Contributed to (last year):</text>
       <text
         class="stat  bold"
@@ -224,11 +190,8 @@
     </g>
   </g>
     </svg>
-  
         </g>
       </svg>
-
------
 
 * группа 21ис-5
 * Студент :<a href="https://vk.com/weltuman"> Алексей Лосев
