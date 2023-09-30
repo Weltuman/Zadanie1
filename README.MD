@@ -9,7 +9,7 @@
 
 -----
 
-<p aligh="center"><img src="https://img3.akspic.ru/attachments/crops/8/1/7/8/2/128718/128718-serfing-bereg-nebo-more-zakat-3840x2160.jpg" src=width="270"></p>
+<p aligh="center"><img src="https://i01.fotocdn.net/s120/48917238e54f3571/public_pin_l/2751710416.jpg" src=width="270"></p>
 
 <p><a href="https://practicum.yandex.ru/">Курсы Яндекс</p>
 
