@@ -1,7 +1,9 @@
+<div style="background-color: rgb(164, 0, 252);">
 
 ``
-Hello Friend
+Привет! Друг!
 ``
+</div>
 
 
 
