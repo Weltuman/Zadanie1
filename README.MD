@@ -3,7 +3,7 @@
 
 <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&pause=1000&color=A13DF7&width=435&lines=Student+of+UAviaC+MCC+College" alt="Typing SVG" /></a>
 
-# Статистика
+# Statistics
 
 -----
 
