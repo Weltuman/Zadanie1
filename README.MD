@@ -7,13 +7,15 @@
 
 -----
 
+[![Alexey GitHub stats](https://github-readme-stats.vercel.app/api?username=Weltuman)](https://github-readme-stats.vercel.app/api?username=Weltuman)
+
+-----
+
 # About me
 
 <img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent">
 
-
-[![Alexey GitHub stats](https://github-readme-stats.vercel.app/api?username=Weltuman)](https://github-readme-stats.vercel.app/api?username=Weltuman)
-
+-----
 
 # Практическая работа по дисциплине ИСРПО
 
