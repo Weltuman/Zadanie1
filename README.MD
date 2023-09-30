@@ -1,5 +1,5 @@
 
-``python
+``
 Hello Friend
 ``
 
