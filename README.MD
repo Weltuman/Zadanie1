@@ -8,5 +8,5 @@
 <p><a href="https://practicum.yandex.ru/">Курсы Яндекс</p>
 
 * группа 21ис-5
-* Студент(ка) <p><a href="https://vk.com/weltuman">Алексей Лосев</p>
+* Студент :<p><a href="https://vk.com/weltuman">Алексей Лосев</p>
 * Проверил: Литвинов И.В.
