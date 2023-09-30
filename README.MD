@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi there, I'm <a href="https://vk.com/weltuman/" target="_blank">Alexey</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
@@ -11,6 +10,14 @@
 <p aligh="center"><img src="https://1.bp.blogspot.com/-mNlVczqEQ08/U3qM4OB0DhI/AAAAAAAACUo/ZL1Hm6p0KuI/s1600/IMG_6175.jpg" src=width="270"></p>
 
 <p><a href="https://vk.com/nissanrussia?ysclid=ln6e2yctof26536566">Nyssan Skyline 34</p>
+
+-----
+
+# Статистика 
+
+-----
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 -----
 
