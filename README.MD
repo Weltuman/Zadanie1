@@ -3,6 +3,12 @@
 
 <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&pause=1000&color=A13DF7&width=435&lines=Student+of+UAviaC+MCC+College" alt="Typing SVG" /></a>
 
+# Статистика
+
+[![Alexey GitHub stats](https://github-readme-stats.vercel.app/api?username=Weltuman)](https://github-readme-stats.vercel.app/api?username=Weltuman)
+
+-----
+
 # Практическая работа по дисциплине ИСРПО
 
 -----
@@ -12,11 +18,6 @@
 <p><a href="https://vk.com/nissanrussia?ysclid=ln6e2yctof26536566">Nyssan Skyline 34</p>
 
 -----
-
-# Статистика
-
-[![Alexey GitHub stats](https://github-readme-stats.vercel.app/api?username=Weltuman)](https://github-readme-stats.vercel.app/api?username=Weltuman)
-
 
 * группа 21ис-5
 * Студент :<a href="https://vk.com/weltuman"> Алексей Лосев
