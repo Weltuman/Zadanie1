@@ -15,11 +15,9 @@
 
 # Статистика 
 
------
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
------
 
 * группа 21ис-5
 * Студент :<a href="https://vk.com/weltuman"> Алексей Лосев
