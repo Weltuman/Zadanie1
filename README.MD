@@ -13,6 +13,11 @@
 
 -----
 
+# Статистика
+
+[![Alexey GitHub stats](https://github-readme-stats.vercel.app/api?username=Weltuman)](https://github-readme-stats.vercel.app/api?username=Weltuman)
+
+
 * группа 21ис-5
 * Студент :<a href="https://vk.com/weltuman"> Алексей Лосев
 * Проверил: Литвинов И.В.
