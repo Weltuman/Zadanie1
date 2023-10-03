@@ -1,5 +1,6 @@
 <div   
   margin: auto;  
+ text-align: center;
 >
 <h1 align="left">Hi there, I'm <a href="https://vk.com/weltuman/" target="_blank">Alexey</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
