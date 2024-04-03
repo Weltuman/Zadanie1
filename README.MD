@@ -31,4 +31,4 @@
 * группа 21ис-5
 * Студент :<a href="https://vk.com/weltuman"> Алексей Лосев
 * Проверил: Литвинов И.В.
-* Made on GitHab
+* Made in GitHab
