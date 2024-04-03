@@ -10,11 +10,7 @@
 
 [![Alexey GitHub stats](https://github-readme-stats.vercel.app/api?username=Weltuman)](https://github-readme-stats.vercel.app/api?username=Weltuman)
 
------
 
-## About me
-
-<img alt="Static Badge" src="https://img.shields.io/badge/Black-White-Red?labelColor=White&color=Black">
 
 -----
 
